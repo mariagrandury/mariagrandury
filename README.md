@@ -1,6 +1,6 @@
 # Hi, I'm Maria Grandury!
 
-- 🎓 I graduated in July with a Double Degree in Math and Physics!
+- 🎓 I'm a Mathematician and a Physicist!
 
 - 🤗 I'm passionate about Machine & Deep Learning!
 
