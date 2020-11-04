@@ -4,8 +4,6 @@
 
 - 🤗 I'm passionate about Machine & Deep Learning!
 
-- 🩺 I'm really interested in the Healthcare industry!
-
 
 ## Past 
 
