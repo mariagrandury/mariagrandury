@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+
 # Hi, I'm María Grandury!
 
 - 🎓 I'm a Mathematician and a Physicist!
@@ -31,6 +34,13 @@ HackerRank
 - ☕️ Happy to go get an online coffe with you!
 
 
+## Skills
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
+
 ## My GitHub Stats
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mariagrandury.mariagrandury)
@@ -38,16 +48,16 @@ HackerRank
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariagrandury&show_icons=true&theme=react" alt="GitHub Stats" >
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react" alt="Most Used Languages" >
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariagrandury&show_icons=true&theme=react" alt="GitHub Stats" >
+  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react" alt="Most Used Languages" >
 </p>
 
-<!--
-<details open>
- <summary> <b>Summary</b>: </summary>
-<br>
-<p> Something </p>
-</details>
--->
 
-This README uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+<details close>
+ <summary> <b>Acknowledgements:</b> </summary>
+  
+  - [shields.io badges](https://shields.io/)
+  - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
+
