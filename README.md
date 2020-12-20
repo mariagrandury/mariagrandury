@@ -1,4 +1,4 @@
-# Hi, I'm Maria Grandury!
+# Hi, I'm María Grandury!
 
 - 🎓 I'm a Mathematician and a Physicist!
 
@@ -29,3 +29,25 @@ HackerRank
 ## Now
 
 - ☕️ Happy to go get an online coffe with you!
+
+
+## My GitHub Stats
+
+![](https://visitor-badge.glitch.me/badge?page_id=mariagrandury.mariagrandury)
+
+<!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariagrandury&show_icons=true&theme=react" alt="GitHub Stats" >
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react" alt="Most Used Languages" >
+</p>
+
+<!--
+<details open>
+ <summary> <b>Summary</b>: </summary>
+<br>
+<p> Something </p>
+</details>
+-->
+
+This README uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
