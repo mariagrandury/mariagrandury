@@ -1,42 +1,35 @@
-<a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="22px" 
+<a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
                                                                                         src="https://simpleicons.org/icons/tableau.svg" /></a>
-<a href="https://github.com/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="22px" 
+<a href="https://github.com/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px" 
                                                                                         src="https://simpleicons.org/icons/github.svg" /></a>
-<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="22px"
+<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
                                                                                         src="https://simpleicons.org/icons/linkedin.svg" /></a>
 
 
-# Hi, I'm María Grandury!
+# Hi, I'm Maria Grandury!
 
-- 🎓 I'm a Mathematician and a Physicist!
+- 🎓 Mathematician and Physicist turned ML Research Engineer
 
-- 🤗 I'm passionate about Machine & Deep Learning, especially about NLP!
+- 🤗 Very interested in NLP & XAI, especially applied to Biomedicine
 
 
-## Past 
+## Past
 
-- 🤓 I have 3 years of working and research experience. Connect with me on [LinkedIn](https://www.linkedin.com/in/mariagrandury/)!
+- 🚀 Check my working and research experience on [LinkedIn](https://www.linkedin.com/in/mariagrandury/)
 
-- 💻 I have implemented ML projects for school and companies, and also personal projects. Check my [Personal Website](https://mariagrandury.github.io/)!
-
-- 🗃 I have taken several ML & DL courses and I keep learning. Check my [Certificates](https://github.com/mariagrandury/mariagrandury/tree/main/Certificates) folder!
-<!--
-🎨 I think that data visualization is a really interesting field: Check my profile on [Tableau](https://public.tableau.com/profile/maria.grandury#!/)
-
-HackerRank
-//-->
+- 🤓 Check my projects and get to know me better visiting my [Personal Website](https://mariagrandury.github.io/)
 
 
 ## Future
 
-- 🌺 I'm looking for a cool AI project to continue developing my skills and add value to a company.
+- ⚡ I'm always looking for cool AI projects to continue developing my skills 
 
-- 💚 I'm looking for opportunities mainly in the Health industry. I want to use AI FOR GOOD!
+- 💚 I want to make a positive impact on people's lives, i.e: use AI FOR GOOD!
 
 
 ## Now
 
-- ☕️ Happy to go get an online coffe with you!
+- ☕️ Reach out! Would love to e-meet you!
 
 
 ## Skills
