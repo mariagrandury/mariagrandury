@@ -1,9 +1,9 @@
-<a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
-                                                                                        src="https://simpleicons.org/icons/tableau.svg" /></a>
-<a href="https://github.com/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px" 
-                                                                                        src="https://simpleicons.org/icons/github.svg" /></a>
-<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
-                                                                                        src="https://simpleicons.org/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
+  <img align="right" alt="LinkedIn" width="43px" src="https://simpleicons.org/icons/linkedin.svg" /></a>
+<a href="https://mariagrandury.medium.com/" target="_blank" rel="nofollow">
+  <img align="right" alt="Medium" width="43px" src="https://simpleicons.org/icons/medium.svg" /></a>
+<a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow">
+  <img align="right" alt="Tableau" width="43px" src="https://simpleicons.org/icons/tableau.svg" /></a>
 
 
 # Hi, I'm Maria Grandury!
@@ -15,7 +15,7 @@
 
 ## Past
 
-- 🚀 Check my working and research experience on [LinkedIn](https://www.linkedin.com/in/mariagrandury/)
+- 🚀 Check my working and research experience on [LinkedIn](https://www.linkedin.com/in/mariagrandury/) - and feel free to connect!
 
 - 🤓 Check my projects and get to know me better visiting my [Personal Website](https://mariagrandury.github.io/)
 
@@ -54,6 +54,7 @@
 ![](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/CI-Circle--CI-informational?style=flat&logo=CircleCi&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Docs-Sphinx-informational?style=flat&logo=Sphinx&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
