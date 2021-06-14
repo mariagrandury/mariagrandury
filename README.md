@@ -1,9 +1,15 @@
-<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkedIn" width="43px" src="https://simpleicons.org/icons/linkedin.svg" /></a>
-<a href="https://mariagrandury.medium.com/" target="_blank" rel="nofollow">
-  <img align="right" alt="Medium" width="43px" src="https://simpleicons.org/icons/medium.svg" /></a>
 <a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow">
-  <img align="right" alt="Tableau" width="43px" src="https://simpleicons.org/icons/tableau.svg" /></a>
+  <img align="right" alt="Tableau" width="43px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a>
+<a href="https://mariagrandury.medium.com/" target="_blank" rel="nofollow">
+  <img align="right" alt="Medium" width="43px" src="https://image.flaticon.com/icons/png/512/2111/2111505.png" /></a>
+<a href="https://twitter.com/mariagrandury" target="_blank" rel="nofollow">
+  <img align="right" alt="Twitter" width="43px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
+  <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://linktr.ee/mariagrandury" target="_blank" rel="nofollow">
+  <img align="right" alt="LinkTree" width="43px" src="https://image.flaticon.com/icons/png/512/3308/3308178.png" /></a>
+<a href="https://mariagrandury.github.io" target="_blank" rel="nofollow">
+  <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
 # Hi, I'm María Grandury!
 
