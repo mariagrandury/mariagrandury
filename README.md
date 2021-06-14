@@ -5,32 +5,35 @@
 <a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow">
   <img align="right" alt="Tableau" width="43px" src="https://simpleicons.org/icons/tableau.svg" /></a>
 
+# Hi, I'm María Grandury!
 
-# Hi, I'm Maria Grandury!
+- 💡  Mathematician & Physicist turned ML Research Engineer
 
-- 🎓 Mathematician and Physicist turned ML Research Engineer
+- 🎯  **#NLP**, AI Robustness & Explainability (**#XAI**)
 
-- 🤗 Very interested in NLP & XAI, especially applied to Biomedicine
+- 💚  **#AIforGood**, **#AIEthics**, AI in Biomedicine
 
+#### Currently, I'm a
 
-## Past
+- 👩🏻‍💻  Research Engineer [**@neurocat.ai**](https://www.neurocat.ai/)
 
-- 🚀 Check my working and research experience on [LinkedIn](https://www.linkedin.com/in/mariagrandury/) - and feel free to connect!
+- 🚀  Founder [**@NLP en ES**](https://twitter.com/nlp_en_es) 🤗
 
-- 🤓 Check my projects and get to know me better visiting my [Personal Website](https://mariagrandury.github.io/)
+- ⚡  Core Team Volunteer [**@Women in AI & Robotics**](https://twitter.com/wairobotics)
 
+- 🔊  Speaker @ [WomenTech Global Conference](https://www.womentech.net/speaker/Maria/Grandury/57995), [MLOps World Conference](), [W.AI.R. Events](https://www.eventbrite.de/e/3-engineering-robotics-ai-experts-taking-center-stage-tickets-158193696605), [SpainAI: AI Webinars & Workshops](https://www.youtube.com/spainai)...
 
-## Future
+#### and in my spare time I enjoy
 
-- ⚡ I'm always looking for cool AI projects to continue developing my skills 
+- 🌎🌍🌏 Travelling
 
-- 💚 I want to make a positive impact on people's lives, i.e: use AI FOR GOOD!
+- 🏕️🌼🥾 Backpacking, camping, hiking
 
+- 🏉🥊⛷️ Rugby, kick-boxing, ski, surf
 
-## Now
+- 🎸💃🎶 Listening & dancing to _all_ kinds of music
 
-- ☕️ Reach out! Would love to e-meet you!
-
+- 🤓🏃🏽‍♀️💪 I'm learning Rust & training for a half-marathon!
 
 ## Skills
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
@@ -77,10 +80,8 @@
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
   
-  - [Icons](https://simpleicons.org/)
   - [Skills badges](https://shields.io/)
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
   - [Visitors badge](https://visitor-badge.laobi.icu/)
   
 </details>
-
