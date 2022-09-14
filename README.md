@@ -8,7 +8,7 @@
   <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 <a href="https://linktr.ee/mariagrandury" target="_blank" rel="nofollow">
   <img align="right" alt="LinkTree" width="43px" src="https://image.flaticon.com/icons/png/512/3308/3308178.png" /></a>
-<a href="https://mariagrandury.github.io" target="_blank" rel="nofollow">
+<a href="https://mariagrandury.com" target="_blank" rel="nofollow">
   <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
 # Hi, I'm María Grandury!
@@ -21,13 +21,11 @@
 
 #### Currently, I'm a
 
-- 👩🏻‍💻  Research Engineer [**@neurocat.ai**](https://www.neurocat.ai/)
+- 👩🏻‍💻  ML Research Engineer [**@neurocat.ai**](https://www.neurocat.ai/)
 
-- 🚀  Founder [**@NLP en ES**](https://twitter.com/nlp_en_es) 🤗
+- 🚀  Founder [**@SomosNLP_**](https://www.somosnlp.org)
 
 - ⚡  Core Team Volunteer [**@Women in AI & Robotics**](https://twitter.com/wairobotics)
-
-- 🔊  Speaker @ [WomenTech Global Conference](https://www.womentech.net/speaker/Maria/Grandury/57995), [MLOps World Conference](), [W.AI.R. Events](https://www.eventbrite.de/e/3-engineering-robotics-ai-experts-taking-center-stage-tickets-158193696605), [SpainAI: AI Webinars & Workshops](https://www.youtube.com/spainai)...
 
 #### and in my spare time I enjoy
 
