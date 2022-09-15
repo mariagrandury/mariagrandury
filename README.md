@@ -1,15 +1,15 @@
 <a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow">
-  <img align="right" alt="Tableau" width="43px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a>
+  <img align="right" alt="Tableau" height="43px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a>
 <a href="https://mariagrandury.medium.com/" target="_blank" rel="nofollow">
-  <img align="right" alt="Medium" width="43px" src="https://image.flaticon.com/icons/png/512/2111/2111505.png" /></a>
+  <img align="right" alt="Medium" height="43px" src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" /></a>
 <a href="https://twitter.com/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="Twitter" width="43px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+  <img align="right" alt="Twitter" height="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>
 <a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+  <img align="right" alt="LinkedIn" height="43px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></a>
 <a href="https://linktr.ee/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkTree" width="43px" src="https://image.flaticon.com/icons/png/512/3308/3308178.png" /></a>
+  <img align="right" alt="LinkTree" height="43px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" /></a>
 <a href="https://mariagrandury.com" target="_blank" rel="nofollow">
-  <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
+  <img align="right" alt="Personal Website" height="43px" src="https://www.mariagrandury.com/favicon.svg" /></a>
 
 # Hi, I'm María Grandury!
 
@@ -29,15 +29,15 @@
 
 #### and in my spare time I enjoy
 
-- 🌎🌍🌏 Travelling
-
 - 🏕️🌼🥾 Backpacking, camping, hiking
 
-- 🏉🥊⛷️ Rugby, kick-boxing, ski, surf
+- 🏉💃⛷️ Playing rugby, dancing, skiing
 
-- 🎸💃🎶 Listening & dancing to _all_ kinds of music
+- 🎤🤓💡 Giving talks and organizing events!
 
-- 🤓🏃🏽‍♀️💪 I'm learning Rust & training for a half-marathon!
+### More in [mariagrandury.com](https://www.mariagrandury.com/)
+
+</br>
 
 ## Skills
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
@@ -67,7 +67,7 @@
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 
-
+</br>
 
 ## My GitHub Stats
 
@@ -80,12 +80,3 @@
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 
-
-<details close>
- <summary> <b>Acknowledgements:</b> </summary>
-  
-  - [Skills badges](https://shields.io/)
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Visitors badge](https://visitor-badge.laobi.icu/)
-  
-</details>
