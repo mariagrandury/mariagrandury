@@ -1,7 +1,3 @@
-<a href="https://public.tableau.com/profile/maria.grandury" target="_blank" rel="nofollow">
-  <img align="right" alt="Tableau" height="43px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a>
-<a href="https://mariagrandury.medium.com/" target="_blank" rel="nofollow">
-  <img align="right" alt="Medium" height="43px" src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" /></a>
 <a href="https://twitter.com/mariagrandury" target="_blank" rel="nofollow">
   <img align="right" alt="Twitter" height="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" /></a>
 <a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
@@ -15,17 +11,15 @@
 
 - 💡  Mathematician & Physicist turned ML Research Engineer
 
-- 🎯  **#NLP**, AI Robustness & Explainability (**#XAI**)
+- 🎯  **#NLP**, Bias mitigation, Trustworthiness
 
-- 💚  **#AIforGood**, **#AIEthics**, AI in Biomedicine
+- 💚  **#ResponsibleAI**, #AIforGood, #OpenSource
 
-#### Currently, I'm a
+#### I'm
 
-- 👩🏻‍💻  ML Research Engineer [**@neurocat.ai**](https://www.neurocat.ai/)
+- 🚀  Founder [**@SomosNLP.org**](https://www.somosnlp.org)
 
-- 🚀  Founder [**@SomosNLP_**](https://www.somosnlp.org)
-
-- ⚡  Core Team Volunteer [**@Women in AI & Robotics**](https://twitter.com/wairobotics)
+- 🤗  Fellow [**@Hugging Face**](https://hf.co/mariagrandury)
 
 #### and in my spare time I enjoy
 
